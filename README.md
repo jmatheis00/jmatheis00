@@ -1,9 +1,9 @@
-<img src="https://github.com/jmatheis00/jmatheis00/blob/main/Julia%20Matheis.png">
+<img src="https://github.com/jmatheis00/jmatheis00/blob/main/JuliaMatheis.png">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-matheis-708817198)
 
 
-<img align="right" alt="GIF" src="https://42.fr/wp-content/uploads/2021/06/Group-8.png" width="408" height="408" alt="banner that says Julia MatheisSoftware Engineering Student, Experience in E-Commerce Management and Social Media Management, Passionate about Web Development and User Experience, with a keen interest in the latest innovations in these fields." />
+<img align="right" alt="GIF" src="https://42.fr/wp-content/uploads/2021/06/Group-8.png" width="408" height="408" />
 
 I'm currently enrolled as a student at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/), close to completing the core curriculum.
 > At 42, education is driven by peer learning, removing traditional teaching structures.
