@@ -1,8 +1,9 @@
-### Hi there, I'm Julia 👋
+<img src="https://github.com/jmatheis00/jmatheis00/blob/main/Julia%20Matheis.png">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-matheis-708817198)
-<img align="right" alt="GIF" src="https://42.fr/wp-content/uploads/2021/06/Group-8.png" width="408" height="408" />
 
+
+<img align="right" alt="GIF" src="https://42.fr/wp-content/uploads/2021/06/Group-8.png" width="408" height="408" />
 
 I'm currently enrolled as a student at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/), close to completing the core curriculum.
 > At 42, education is driven by peer learning, removing traditional teaching structures.
