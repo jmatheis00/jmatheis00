@@ -2,9 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-matheis-708817198)
 
-
+<!--
 <img align="right" alt="GIF" src="https://42.fr/wp-content/uploads/2021/06/Group-8.png" width="408" height="408" />
-
+-->
 I'm currently enrolled as a student at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/), close to completing the core curriculum.
 > At 42, education is driven by peer learning, removing traditional teaching structures.
 > Students learn through hands-on projects, promoting creativity and teamwork, while also developing real-world skills.
@@ -16,6 +16,32 @@ I'm currently enrolled as a student at [42 Heilbronn Programming School](https:/
 -->
 These are the projects I worked on as a student at 42 Heilbronn Programming School:
 
+<div style="overflow: auto;">
+  <a href="https://github.com/jmatheis00/42_libft">
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftn.png" width="120" height="120" />
+</a>
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linen.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootn.png" width="120" height="120" />
+  
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/pipexn.png" width="120" height="120" />
+  
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosophersn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png" width="120" height="120" />
+  
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/cub3dn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/netpracticen.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/cppn.png" width="120" height="120" />
+  
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_ircn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/inceptionn.png" width="120" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_transcendencen.png" width="120" height="120" />
+</div>
+
+<!-- Clear floating and alignment -->
 📫 How to reach me: jmatheis@student.42heilbronn.de
 
 <!--
