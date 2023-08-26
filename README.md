@@ -17,14 +17,18 @@ I'm currently enrolled as a student at [42 Heilbronn Programming School](https:/
 These are the projects I worked on as a student at 42 Heilbronn Programming School:
 
 <div style="overflow: auto;">
+
   <a href="https://github.com/jmatheis00/42_libft">
-  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftn.png" width="120" height="120" />
-</a>
-  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftn.png" width="120" height="120" />
-  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfn.png" width="120" height="120" />
-  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linen.png" width="120" height="120" />
+    <img alt="GIF" src="https://github.com/byaliego/42-project-    badges/blob/main/badges/libftn.png" width="120" height="120" />
+  </a>
+  <a href="https://github.com/jmatheis00/42_printf">  
+    <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfn.png" width="120" height="120" />
+  </a>
+  <a href="https://github.com/jmatheis00/42_getnextline">  
+    <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linen.png" width="120" height="120" />
+  </a>
+
   <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootn.png" width="120" height="120" />
-  
   <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longn.png" width="120" height="120" />
   <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapn.png" width="120" height="120" />
   <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/pipexn.png" width="120" height="120" />
