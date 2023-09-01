@@ -46,7 +46,7 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   
   <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_ircn.png" width="100" height="100" />
   <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/inceptionn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_transcendencen.png" width="100" height="120" />
+  <img alt="GIF" src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_transcendencen.png" width="100" height="100" />
 </div>
 
 <!-- Clear floating and alignment -->
