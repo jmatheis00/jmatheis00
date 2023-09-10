@@ -1,4 +1,4 @@
-<img src="https://github.com/jmatheis00/jmatheis00/blob/main/JuliaMatheis.png">
+<img src="./JuliaMatheis.png">
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-matheis-708817198">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
@@ -6,7 +6,7 @@
 </p>
 
 #### Languages
-<img src="https://github.com/jmatheis00/jmatheis00/blob/main/Languages/c.svg" width=7%><img src="https://github.com/jmatheis00/jmatheis00/blob/main/Languages/cplusplus.svg" width=7%>
+<img src="./Languages/c.svg" width=7%><img src="./Languages/cplusplus.svg" width=7%>
  
 
 I'm currently enrolled as a student at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/), close to completing the core curriculum.
@@ -23,30 +23,30 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
 <div style="overflow: auto;">
 
   <a href="https://github.com/jmatheis00/42_libft">
-    <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/badges/libftn.png" width="100" height="100" />
+    <img alt="GIF" src="./42ProjectBadges/libftn.png" width="100" height="100" />
   </a>
   <a href="https://github.com/jmatheis00/42_printf">  
-    <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/badges/ft_printfn.png" width="100" height="100" />
+    <img alt="GIF" src="./42ProjectBadges/ft_printfn.png" width="100" height="100" />
   </a>
   <a href="https://github.com/jmatheis00/42_getnextline">  
-    <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/badges/get_next_linen.png" width="100" height="100" />
+    <img alt="GIF" src="./42ProjectBadges/get_next_linen.png" width="100" height="100" />
   </a>
 
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/born2berootn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/so_longn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/push_swapn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/pipexn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/born2berootn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/so_longn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/push_swapn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/pipexn.png" width="100" height="100" />
   
   <img alt="GIF" src="./42ProjectBadges/philosophersn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/minishelln.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/minishelln.png" width="100" height="100" />
   
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/cub3dn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/netpracticen.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/cppn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/cub3dn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/netpracticen.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/cppn.png" width="100" height="100" />
   
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/ft_ircn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/inceptionn.png" width="100" height="100" />
-  <img alt="GIF" src="https://github.com/jmatheis00/jmatheis00/blob/main/42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/ft_ircn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/inceptionn.png" width="100" height="100" />
+  <img alt="GIF" src="./42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
 </div>
 
 <!-- Clear floating and alignment -->
