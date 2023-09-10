@@ -1,4 +1,4 @@
-<img src="https://github.com/jmatheis00/jmatheis00/blob/main/JuliaMatheis.png">
+<img src="https://github.com/jmatheis00/jmatheis00/blob/main/Banner/JuliaMatheis.png">
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-matheis-708817198">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
@@ -6,7 +6,7 @@
 </p>
 
 #### Languages
-<img src="https://github.com/avinal/avinal/blob/cee1979d2ebe39224087fa85f7ed02a788eef48e/images/c-plain.svg" width=7%><img src="https://github.com/avinal/avinal/blob/cee1979d2ebe39224087fa85f7ed02a788eef48e/images/cplusplus-plain.svg" width=7%>
+<img src="https://github.com/jmatheis00/jmatheis00/blob/main/Languages/c.svg" width=7%><img src="https://github.com/jmatheis00/jmatheis00/blob/main/Languages/cplusplus.svg" width=7%>
  
 
 I'm currently enrolled as a student at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/), close to completing the core curriculum.
