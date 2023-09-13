@@ -7,7 +7,6 @@
 
 #### Languages
 <img src="./Languages/c.svg" width=7%><img src="./Languages/cplusplus.svg" width=7%>
- 
 
 I'm currently enrolled as a student at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/), close to completing the core curriculum.
 > At 42, education is driven by peer learning, removing traditional teaching structures.
