@@ -32,7 +32,11 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   </a>
 
   <img alt="GIF" src="./42ProjectBadges/born2berootn.png" width="100" height="100" />
-  <img alt="GIF" src="./42ProjectBadges/so_longn.png" width="100" height="100" />
+  
+  <a href="https://github.com/jmatheis00/42_so_long.git">
+    <img alt="GIF" src="./42ProjectBadges/so_longn.png" width="100" height="100" />
+  </a>
+  
   <img alt="GIF" src="./42ProjectBadges/push_swapn.png" width="100" height="100" />
   <img alt="GIF" src="./42ProjectBadges/pipexn.png" width="100" height="100" />
   
