@@ -36,7 +36,7 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   <a href="https://github.com/jmatheis00/42_so_long.git">
     <img alt="GIF" src="./42ProjectBadges/so_longn.png" width="100" height="100" />
   </a>
-  <a href="https://github.com/jmatheis00/42_push_swap"
+  <a href="https://github.com/jmatheis00/42_push_swap">
     <img alt="GIF" src="./42ProjectBadges/push_swapn.png" width="100" height="100" />
   </a>
   
