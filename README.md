@@ -20,7 +20,6 @@ I'm currently enrolled as a student at [42 Heilbronn Programming School](https:/
 These are the projects I worked on as a student at 42 Heilbronn Programming School:
 
 <div style="overflow: auto;">
-
   <a href="https://github.com/jmatheis00/42_libft">
     <img alt="GIF" src="./42ProjectBadges/libftn.png" width="100" height="100" />
   </a>
@@ -48,8 +47,10 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   
   <img alt="GIF" src="./42ProjectBadges/cub3dn.png" width="100" height="100" />
   <img alt="GIF" src="./42ProjectBadges/netpracticen.png" width="100" height="100" />
-  <img alt="GIF" src="./42ProjectBadges/cppn.png" width="100" height="100" />
 
+  <a href="https://github.com/jmatheis00/42_cpp_modules">
+    <img alt="GIF" src="./42ProjectBadges/cppn.png" width="100" height="100" />
+  </a>
   <a href="https://github.com/jmatheis00/42_ft_irc">
     <img alt="GIF" src="./42ProjectBadges/ft_ircn.png" width="100" height="100" />
   </a>
