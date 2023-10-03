@@ -60,6 +60,7 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   <img alt="GIF" src="./42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
 </div>
 
+
 Here are the projects I accomplished during FreeCodeCamp courses:
 
 
