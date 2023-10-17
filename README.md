@@ -61,9 +61,6 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
 </div>
 
 
-Here are the projects I accomplished during FreeCodeCamp courses:
-
-
 <!-- Clear floating and alignment -->
 📫 How to reach me: jmatheis@student.42heilbronn.de
 
