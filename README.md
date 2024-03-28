@@ -29,6 +29,7 @@ I'm currently enrolled as a student at [42 Heilbronn Programming School](https:/
 <!--
 [![jmatheis's 42 stats](https://badge.mediaplus.ma/black/jmatheis?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 -->
+<br/>
 These are the projects I worked on as a student at 42 Heilbronn Programming School:
 
 <div style="overflow: auto;">
@@ -67,12 +68,25 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   <a href="https://github.com/jmatheis00/42_ft_irc">
     <img alt="GIF" src="./42ProjectBadges/ft_ircn.png" width="100" height="100" />
   </a>
-  
-  <img alt="GIF" src="./42ProjectBadges/inceptionn.png" width="100" height="100" />
+  <a href="https://github.com/jmatheis00/42_inception">
+    <img alt="GIF" src="./42ProjectBadges/inceptionn.png" width="100" height="100" />
+  </a>
   <img alt="GIF" src="./42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
 </div>
 
+<br/><br/>
+Completed certificates and courses in frontend development:
+<br/>
+<div style="overflow: auto;">
+  <a href="https://github.com/jmatheis00/ResponsiveWebDesign">
+    <img alt="fCC_ResponsiveWebDesign_Certificate" src="./fCC_ResponsiveWebDesign_Certificate.png" width="30%" />
+  </a>
+  <a href="https://github.com/jmatheis00/JavaScriptAlgorithmsAndDataStructures">
+    <img alt="fCC_JS_Certificate" src="./fCC_JS_Certificate.png" width="30%" />
+  </a>
+</div>
 
+<br/><br/>
 <!-- Clear floating and alignment -->
 📫 How to reach me: jmatheis@student.42heilbronn.de
 
