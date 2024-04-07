@@ -57,8 +57,9 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   <a href="https://github.com/jmatheis00/42_philosophers">
     <img alt="GIF" src="./42ProjectBadges/philosophersn.png" width="100" height="100" />
   </a>
-
-  <img alt="GIF" src="./42ProjectBadges/minishelln.png" width="100" height="100" />
+  <a href="https://github.com/jmatheis00/42_minishell">
+    <img alt="GIF" src="./42ProjectBadges/minishelln.png" width="100" height="100" />
+  </a>
   <img alt="GIF" src="./42ProjectBadges/cub3dn.png" width="100" height="100" />
   <img alt="GIF" src="./42ProjectBadges/netpracticen.png" width="100" height="100" />
 
@@ -71,7 +72,9 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   <a href="https://github.com/jmatheis00/42_inception">
     <img alt="GIF" src="./42ProjectBadges/inceptionn.png" width="100" height="100" />
   </a>
-  <img alt="GIF" src="./42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
+  <a href="https://github.com/jmatheis00/42_transcendence">
+    <img alt="GIF" src="./42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
+  </a>
 </div>
 
 <br/><br/>
