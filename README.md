@@ -60,7 +60,10 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   <a href="https://github.com/jmatheis00/42_minishell">
     <img alt="GIF" src="./42ProjectBadges/minishelln.png" width="100" height="100" />
   </a>
-  <img alt="GIF" src="./42ProjectBadges/cub3dn.png" width="100" height="100" />
+  <a href="https://github.com/jmatheis00/42_cub3D">
+    <img alt="GIF" src="./42ProjectBadges/cub3dn.png" width="100" height="100" />
+  </a>
+
   <img alt="GIF" src="./42ProjectBadges/netpracticen.png" width="100" height="100" />
 
   <a href="https://github.com/jmatheis00/42_cpp_modules">
@@ -90,10 +93,12 @@ Completed certificates and courses in frontend development:
 </div>
 
 <br/><br/>
+
 <!-- Clear floating and alignment -->
 📫 How to reach me: jmatheis@student.42heilbronn.de
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmatheis00&theme=tokyonight)
 **jmatheis00/jmatheis00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
