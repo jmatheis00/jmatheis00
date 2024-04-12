@@ -75,11 +75,12 @@ These are the projects I worked on as a student at 42 Heilbronn Programming Scho
   <a href="https://github.com/jmatheis00/42_inception">
     <img alt="GIF" src="./42ProjectBadges/inceptionn.png" width="100" height="100" />
   </a>
-  <a href="https://github.com/jmatheis00/42_transcendence">
-    <img alt="GIF" src="./42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
-  </a>
 </div>
-
+<br/>
+Last project at 42 (creating a website for Pong Game):<br/>
+<a href="https://github.com/jmatheis00/42_transcendence">
+  <img alt="GIF" src="./42ProjectBadges/ft_transcendencen.png" width="100" height="100" />
+</a>
 <br/><br/>
 Completed certificates and courses in frontend development:
 <br/>
