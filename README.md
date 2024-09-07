@@ -1,4 +1,4 @@
-<img src="./JuliaMatheis.png">
+<img src="./JuliaMatheis.jpg">
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-matheis-708817198">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
@@ -20,7 +20,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 -->
 
-I'm currently enrolled as a student at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/), close to completing the core curriculum.
+I'm an Alumni at [42 Heilbronn Programming School](https://www.42heilbronn.de/en/).
 > At 42, education is driven by peer learning, removing traditional teaching structures.
 > Students learn through hands-on projects, promoting creativity and teamwork, while also developing real-world skills.
 > This experience also builds important soft skills for the professional world, including adaptability, critical thinking, collaboration, and effective learning.
