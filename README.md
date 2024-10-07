@@ -1,4 +1,4 @@
-<img src="./Julia_Matheis.jpg">
+<img src="./JuliaMatheis.jpg">
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-matheis-708817198">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
